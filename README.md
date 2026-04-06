@@ -48,11 +48,11 @@
 | Платформа | Клиент | Ссылка |
 |-----------|--------|--------|
 | 🪟 Windows | v2rayN | [Скачать](https://github.com/2dust/v2rayN/releases) |
+| 🪟 Windows | SpinerNet | [Скачать](https://github.com/misterdengi/spinerNET/releases/tag/v1.0.0) | 
 | 🐧 Linux | Nekoray | [Скачать](https://github.com/MatsuriDayo/nekoray/releases) |
 | 🍎 macOS | V2RayXS | [Скачать](https://github.com/tzmax/V2RayXS/releases) |
 | 📱 Android | v2rayNG | [Скачать](https://github.com/2dust/v2rayNG/releases) |
 | 📱 iOS | Shadowrocket | [App Store](https://apps.apple.com/app/shadowrocket/id932747118) |
-| 🪟 Windows | SpinerNet | [Скачать](https://github.com/misterdengi/spinerNET/releases/tag/v1.0.0)) | 
 
 ---
 
