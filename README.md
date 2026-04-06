@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![Auto-Update](https://img.shields.io/badge/Auto--Update-Daily-orange?style=for-the-badge)
 
-**Автоматически обновляемая коллекция VLESS конфигураций**
+**Периодически обновляемая коллекция VLESS конфигураций**
 
 [🔗 Использование](#-использование) • [📋 Список конфигов](#-список-конфигов) • [⚙️ Настройка](#️-настройка) • [❓ FAQ](#-faq)
 
