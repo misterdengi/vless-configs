@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![Auto-Update](https://img.shields.io/badge/Auto--Update-Daily-orange?style=for-the-badge)
 
-**Автоматически обновляемая коллекция VLESS конфигураций**
+**Периодически обновляемая коллекция VLESS конфигураций**
 
 [🔗 Использование](#-использование) • [📱 Клиенты](#-рекомендуемые-клиенты) • [⚙️ Настройка](#️-настройка) • [❓ FAQ](#-faq)
 
@@ -52,6 +52,7 @@
 | 🍎 macOS | V2RayXS | [Скачать](https://github.com/tzmax/V2RayXS/releases) |
 | 📱 Android | v2rayNG | [Скачать](https://github.com/2dust/v2rayNG/releases) |
 | 📱 iOS | Shadowrocket | [App Store](https://apps.apple.com/app/shadowrocket/id932747118) |
+| 🪟 Windows | SpinerNet | [Скачать](https://github.com/misterdengi/spinerNET/releases/tag/v1.0.0)) | 
 
 ---
 
@@ -148,6 +149,7 @@ vless://uuid@server:port?параметры#название
 
 - **Windows**: v2rayN - самый популярный и стабильный
 - **Android**: v2rayNG - официальный клиент
+- **Windows**: Spinernet - клиент by мистер деньги))))
 - **Linux**: Nekoray - современный и удобный
 - **iOS**: Shadowrocket - платный, но лучший для iOS
 </details>
@@ -212,7 +214,7 @@ vless://uuid@server:port?параметры#название
 
 ## 📜 Лицензия
 
-Проект распространяется по лицензии MIT. См. [LICENSE](LICENSE) для подробностей.
+Проект распространяется по свободной лицензии, делайте что хотите.
 
 ---
 
